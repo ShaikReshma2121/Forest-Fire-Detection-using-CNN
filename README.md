@@ -1,1 +1,0 @@
-# Forest-Fire-Detection-using-CNN
